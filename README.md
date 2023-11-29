@@ -7,4 +7,4 @@ This repository contains all the SQL files that were made during the SQL Session
 - Data Analysis
 - Data Manipulation
 - Data Cleaning
-- Data Visualization
+- Data Relationships
